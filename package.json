@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/BartlomiejFigura/Nauka-GITa/issues"
   },
-  "homepage": "https://github.com/BartlomiejFigura/Nauka-GITa#readme",
-  "devDependencies": {
-    "browser-sync": "^2.26.7"
-  }
+  "homepage": "https://github.com/BartlomiejFigura/Nauka-GITa#readme"
 }

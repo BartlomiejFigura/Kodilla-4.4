@@ -1,0 +1,8 @@
+Autoprefixer CLI
+autoprefixer-cli -o main.prefixed.css main.css /*gdzie main.css to nazwa pliku .css*/
+
+Nu html-checker
+nu-html-checker index.html 
+
+browser-sync
+node_modules/.bin/browser-sync start --server --files "css/*.css" "*.html" /* gdzie w "" podajemy sciezke*/
